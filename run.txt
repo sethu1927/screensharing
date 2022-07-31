@@ -1,0 +1,8 @@
+how to run 
+sender machine:
+
+ run the reciver.py on the host machine specify the ip ( private ip and any port  ).
+
+reciver machine:
+ run the sender.py on the reciver machine. where you want to see the file.
+
